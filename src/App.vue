@@ -65,7 +65,6 @@ export default {
 </script>
 
 <style>
-<style>
 .container {
   text-align: center;
   font-family: Arial, sans-serif;
